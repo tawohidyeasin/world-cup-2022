@@ -1,0 +1,37 @@
+main{
+    display: flex;
+    flex-direction: column;
+    
+}
+h1{color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+p{
+    color: white;
+}
+.top-players{
+    
+    background-color: Black;
+    height: 500px;
+    width: 100%;
+}
+.player{
+    align-content: center;
+}
+.match{
+    background-color: black;
+    size: 2opx;
+    width:300px;
+    height: 300px;
+    text-align: center;
+}
+.upcoming{
+    font-size: 50px;
+    display: flex;
+    background-color: white;
+    border-radius: 2px;
+}
+.footer1{
+    font-size: 50px;
+}
